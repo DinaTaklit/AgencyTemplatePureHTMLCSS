@@ -102,10 +102,3 @@ $('#about a.btn').on('click', function() {
     animation(fa_circle, 'swirl-in-fwd');
 });
 /************************* /Services Script **************************/
-
-/************************* Team Script **************************/
-// $('a.nav-link[href="#team"]').on('click', function() {
-//     animation($('#team img.rounded-circle'), 'heartbeat');
-// });
-
-/************************* /Team Script **************************/
